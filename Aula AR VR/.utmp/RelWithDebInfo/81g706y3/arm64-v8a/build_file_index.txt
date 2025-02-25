@@ -1,0 +1,2 @@
+C:\Users\00114639\GITS\Aula-AR-VR\Aula AR VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\00114639\GITS\Aula-AR-VR\Aula AR VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
